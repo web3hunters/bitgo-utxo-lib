@@ -110,7 +110,7 @@ module.exports = {
       1: 0x00,
       2: 0x00,
       3: 0x5ba81b19,
-      4: 0x37519621
+      4: 0xc2d6d0b4
     },
     coin: coins.ZEC,
     isZcash: true
@@ -129,7 +129,7 @@ module.exports = {
       1: 0x00,
       2: 0x00,
       3: 0x5ba81b19,
-      4: 0x37519621
+      4: 0xc2d6d0b4
     },
     coin: coins.ZEC,
     isZcash: true
